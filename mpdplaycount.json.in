@@ -1,0 +1,10 @@
+{
+  "Name": "MPD Play count",
+  "Version": "@PROJECT_VERSION@",
+  "Author": "nearbyexile.com",
+  "Copyright": ["Copyright © 2026"],
+  "License": ["GPL-3.0-or-later"],
+  "Category": "Library",
+  "Description": "Updates Fooyin playback statistics (play count, last played) for tracks played by MPD",
+  "Url": ""
+}
